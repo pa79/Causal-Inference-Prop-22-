@@ -7,7 +7,7 @@ on gig worker employment, earnings, and consumer prices.
 
 Uses synthetic data calibrated to published BLS and Census statistics.
 
-Author: [Your Name]
+Author: [Prabin Adhikari]
 """
 
 import numpy as np
