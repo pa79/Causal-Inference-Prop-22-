@@ -95,7 +95,7 @@ causal-impact-prop22/
 
 This project demonstrates the complete toolkit expected of a tech economist:
 
-- **Causal inference**: DID, event study, synthetic control (the core of tech economist interviews)
+- **Causal inference**: DID, event study, synthetic control 
 - **Econometric rigor**: Clustered SEs, parallel trends testing, placebo tests, robustness battery
 - **Software engineering**: OOP design, type hints, docstrings, modular architecture
 - **Communication**: Clear output, publication figures, documented methodology
